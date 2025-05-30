@@ -2,8 +2,6 @@
 
 A sophisticated system that processes various input formats (JSON, Email, PDF) using specialized agents while maintaining shared context through a memory system.
 
-![Multi-Agent System Demo](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Features
 
 - 🤖 **Multiple Specialized Agents**
