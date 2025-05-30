@@ -1,0 +1,19 @@
+From: john.doe@example.com
+To: sales@company.com
+Subject: Request for Quotation - Office Supplies
+
+Hello,
+
+We are interested in purchasing office supplies for our new branch.
+Could you please provide a quotation for the following items:
+
+- 20 ergonomic chairs
+- 10 height-adjustable desks
+- 15 desk lamps
+
+We would appreciate a response within the next week.
+
+Best regards,
+John Doe
+Procurement Manager
+Acme Corp

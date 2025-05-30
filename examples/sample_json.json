@@ -1,0 +1,9 @@
+{
+    "customer": "Acme Corp",
+    "order_id": "ORD-12345",
+    "items": [
+        {"product": "Widget A", "quantity": 5, "price": 10.99},
+        {"product": "Widget B", "quantity": 3, "price": 15.99}
+    ],
+    "total": 129.92
+}
